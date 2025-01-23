@@ -1,0 +1,27 @@
+
+.navbar {
+    background-color: aqua;
+    padding: 10px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .navbar li {
+    display: inline;
+  }
+  
+  .navbar a {
+    color:green;
+    text-decoration: none;
+    padding: 5px;
+  }
+  
+  .navbar a:hover {
+    background-color: #fae317;
+  }
