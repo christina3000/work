@@ -12,10 +12,9 @@ code {
     monospace;
 }
 
+<<<<<<< HEAD
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+
 
 body {
   margin: 0;
@@ -31,6 +30,8 @@ code {
     monospace;
 }
 
+=======
+>>>>>>> 4ca0457f1ac0aa2f08cfcc4800652ec973bab67d
 .navbar li{
   list-style: none;
   display: flex;
